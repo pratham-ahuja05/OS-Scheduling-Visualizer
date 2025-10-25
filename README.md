@@ -88,6 +88,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ---
 
+
 📂 File Structure
 OS-Scheduling-Visualizer/
 │
@@ -97,7 +98,6 @@ OS-Scheduling-Visualizer/
 ├─ CSVUtil.java        # CSV export/import functionality
 ├─ style.css           # UI styling
 └─ README.md           # Project documentation
-
 ---
 
 ## 🤝 Contributing
