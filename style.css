@@ -1,0 +1,27 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: #f4f4f4;
+}
+
+.table-view {
+    -fx-border-color: #ccc;
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: #005a99;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.pane {
+    -fx-background-color: white;
+    -fx-border-color: #ccc;
+}
