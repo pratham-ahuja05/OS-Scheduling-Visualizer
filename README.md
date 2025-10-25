@@ -25,8 +25,8 @@ Simulates core OS scheduling algorithms with interactive process management, dyn
 
 ## 💻 Installation & Usage
 
-### 1. Clone the repository
-```bash
+1. Clone the repository
+
 git clone https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer.git
 cd OS-Scheduling-Visualizer
 2. Install Java SDK and JavaFX
