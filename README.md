@@ -91,12 +91,13 @@ Follow these steps to get the project up and running on your local machine.
 📂 File Structure
 OS-Scheduling-Visualizer/
 │
-├─ Main.java       # Main application & UI
-├─ Process.java    # Process class
-├─ Scheduler.java  # Scheduling algorithms
-├─ CSVUtil.java    # CSV export/import
-├─ style.css       # UI styling
-└─ README.md       # Project documentation
+├─ Main.java           # Main application & UI
+├─ Process.java        # Process class definition
+├─ Scheduler.java      # Scheduling algorithms & simulation
+├─ CSVUtil.java        # CSV export/import functionality
+├─ style.css           # UI styling
+└─ README.md           # Project documentation
+
 ---
 
 ## 🤝 Contributing
