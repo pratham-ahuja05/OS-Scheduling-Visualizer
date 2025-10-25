@@ -9,9 +9,8 @@ A real-time **CPU Scheduling Visualizer** built in Java using the JavaFX framewo
 
 ## 📸 Screenshots
 
-*(This is a great place to add a screenshot or GIF of your application in action!)*
+![OS Visualizer Screenshot](https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer/blob/main/Screenshot%20(25).png?raw=true)
 
-`![Application-Screenshot](PATH_TO_YOUR_IMAGE.png)`
 
 ---
 
