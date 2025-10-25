@@ -88,10 +88,15 @@ Follow these steps to get the project up and running on your local machine.
 
 ---
 
-## 📂 Project Structure
-OS-Scheduling-Visualizer/ │ ├── Main.java # Main application class, handles UI (JavaFX) ├── Process.java # Data class for individual processes ├── Scheduler.java # Contains the logic for all scheduling algorithms ├── CSVUtil.java # Utility for saving/loading process lists ├── style.css # CSS for UI styling (themes, colors) └── README.md # You are here!
-
-
+📂 File Structure
+OS-Scheduling-Visualizer/
+│
+├─ Main.java       # Main application & UI
+├─ Process.java    # Process class
+├─ Scheduler.java  # Scheduling algorithms
+├─ CSVUtil.java    # CSV export/import
+├─ style.css       # UI styling
+└─ README.md       # Project documentation
 ---
 
 ## 🤝 Contributing
